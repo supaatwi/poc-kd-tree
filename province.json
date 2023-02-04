@@ -1,0 +1,541 @@
+[
+    {
+        "provinceID": 23,
+        "provinceThai": "จังหวัดตราด",
+        "provinceEng": "Trat",
+        "latitude": 12.2427563,
+        "longitude": 102.51747339999997
+    },
+    {
+        "provinceID": 56,
+        "provinceThai": "จังหวัดพะเยา",
+        "provinceEng": "Phayao",
+        "latitude": 19.1664789,
+        "longitude": 99.9019419
+    },
+    {
+        "provinceID": 52,
+        "provinceThai": "จังหวัดลำปาง",
+        "provinceEng": "Lampang",
+        "latitude": 18.2888404,
+        "longitude": 99.49087399999996
+    },
+    {
+        "provinceID": 51,
+        "provinceThai": "จังหวัดลำพูน",
+        "provinceEng": "Lamphun",
+        "latitude": 18.5744606,
+        "longitude": 99.0087221
+    },
+    {
+        "provinceID": 76,
+        "provinceThai": "จังหวัดเพชรบุรี",
+        "provinceEng": "Phetchaburi",
+        "latitude": 13.1111601,
+        "longitude": 99.93913069999996
+    },
+    {
+        "provinceID": 62,
+        "provinceThai": "จังหวัดกำแพงเพชร",
+        "provinceEng": "Kamphaeng Phet",
+        "latitude": 16.4827798,
+        "longitude": 99.52266179999992
+    },
+    {
+        "provinceID": 61,
+        "provinceThai": "จังหวัดอุทัยธานี",
+        "provinceEng": "Uthai Thani",
+        "latitude": 15.3835001,
+        "longitude": 100.02455269999996
+    },
+    {
+        "provinceID": 34,
+        "provinceThai": "จังหวัดอุบลราชธานี",
+        "provinceEng": "Ubon Ratchathani",
+        "latitude": 15.2286861,
+        "longitude": 104.85642170000006
+    },
+    {
+        "provinceID": 39,
+        "provinceThai": "จังหวัดหนองบัวลำภู",
+        "provinceEng": "Nong Bua Lam Phu",
+        "latitude": 17.2218247,
+        "longitude": 102.42603680000002
+    },
+    {
+        "provinceID": 81,
+        "provinceThai": "จังหวัดกระบี่",
+        "provinceEng": "Krabi",
+        "latitude": 8.0862997,
+        "longitude": 98.90628349999997
+    },
+    {
+        "provinceID": 15,
+        "provinceThai": "จังหวัดอ่างทอง",
+        "provinceEng": "Ang Thong",
+        "latitude": 14.5896054,
+        "longitude": 100.45505200000002
+    },
+    {
+        "provinceID": 24,
+        "provinceThai": "จังหวัดฉะเชิงเทรา",
+        "provinceEng": "Chachoengsao",
+        "latitude": 13.6904194,
+        "longitude": 101.07795959999999
+    },
+    {
+        "provinceID": 46,
+        "provinceThai": "จังหวัดกาฬสินธุ์",
+        "provinceEng": "Kalasin",
+        "latitude": 16.4314078,
+        "longitude": 103.5058755
+    },
+    {
+        "provinceID": 48,
+        "provinceThai": "จังหวัดนครพนม",
+        "provinceEng": "Nakhon Phanom",
+        "latitude": 17.392039,
+        "longitude": 104.76955079999993
+    },
+    {
+        "provinceID": 73,
+        "provinceThai": "จังหวัดนครปฐม",
+        "provinceEng": "Nakhon Pathom",
+        "latitude": 13.8199206,
+        "longitude": 100.06216760000007
+    },
+    {
+        "provinceID": 92,
+        "provinceThai": "จังหวัดตรัง",
+        "provinceEng": "Trang",
+        "latitude": 7.5593851,
+        "longitude": 99.61100650000003
+    },
+    {
+        "provinceID": 35,
+        "provinceThai": "จังหวัดยโสธร",
+        "provinceEng": "Yasothon",
+        "latitude": 15.792641,
+        "longitude": 104.14528270000005
+    },
+    {
+        "provinceID": 40,
+        "provinceThai": "จังหวัดขอนแก่น",
+        "provinceEng": "Khon Kaen",
+        "latitude": 16.4419355,
+        "longitude": 102.8359921
+    },
+    {
+        "provinceID": 44,
+        "provinceThai": "จังหวัดมหาสารคาม",
+        "provinceEng": "Maha Sarakham",
+        "latitude": 16.1850896,
+        "longitude": 103.30264609999995
+    },
+    {
+        "provinceID": 16,
+        "provinceThai": "จังหวัดลพบุรี",
+        "provinceEng": "Lop Buri",
+        "latitude": 14.7995081,
+        "longitude": 100.65337060000002
+    },
+    {
+        "provinceID": 55,
+        "provinceThai": "จังหวัดน่าน",
+        "provinceEng": "Nan",
+        "latitude": 18.7756318,
+        "longitude": 100.77304170000002
+    },
+    {
+        "provinceID": 36,
+        "provinceThai": "จังหวัดชัยภูมิ",
+        "provinceEng": "Chaiyaphum",
+        "latitude": 15.8068173,
+        "longitude": 102.03150270000003
+    },
+    {
+        "provinceID": 66,
+        "provinceThai": "จังหวัดพิจิตร",
+        "provinceEng": "Phichit",
+        "latitude": 16.4429516,
+        "longitude": 100.34823289999997
+    },
+    {
+        "provinceID": 43,
+        "provinceThai": "จังหวัดหนองคาย",
+        "provinceEng": "Nong Khai",
+        "latitude": 17.8782803,
+        "longitude": 102.74126380000007
+    },
+    {
+        "provinceID": 12,
+        "provinceThai": "จังหวัดนนทบุรี",
+        "provinceEng": "Nonthaburi",
+        "latitude": 13.8621125,
+        "longitude": 100.51435279999998
+    },
+    {
+        "provinceID": 75,
+        "provinceThai": "จังหวัดสมุทรสงคราม",
+        "provinceEng": "Samut Songkhram",
+        "latitude": 13.4098217,
+        "longitude": 100.00226450000002
+    },
+    {
+        "provinceID": 25,
+        "provinceThai": "จังหวัดปราจีนบุรี",
+        "provinceEng": "Prachin Buri",
+        "latitude": 14.0509704,
+        "longitude": 101.37274389999993
+    },
+    {
+        "provinceID": 91,
+        "provinceThai": "จังหวัดสตูล",
+        "provinceEng": "Satun",
+        "latitude": 6.6238158,
+        "longitude": 100.06737440000006
+    },
+    {
+        "provinceID": 30,
+        "provinceThai": "จังหวัดนครราชสีมา",
+        "provinceEng": "Nakhon Ratchasima",
+        "latitude": 14.9798997,
+        "longitude": 102.09776929999998
+    },
+    {
+        "provinceID": 96,
+        "provinceThai": "จังหวัดนราธิวาส",
+        "provinceEng": "Narathiwat",
+        "latitude": 6.4254607,
+        "longitude": 101.82531429999995
+    },
+    {
+        "provinceID": 32,
+        "provinceThai": "จังหวัดสุรินทร์",
+        "provinceEng": "Surin",
+        "latitude": 14.882905,
+        "longitude": 103.49371070000007
+    },
+    {
+        "provinceID": 84,
+        "provinceThai": "จังหวัดสุราษฎร์ธานี",
+        "provinceEng": "Surat Thani",
+        "latitude": 9.1382389,
+        "longitude": 99.32174829999997
+    },
+    {
+        "provinceID": 14,
+        "provinceThai": "จังหวัดพระนครศรีอยุธยา",
+        "provinceEng": "Phra Nakhon Si Ayutthaya",
+        "latitude": 14.3532128,
+        "longitude": 100.56895989999998
+    },
+    {
+        "provinceID": 47,
+        "provinceThai": "จังหวัดสกลนคร",
+        "provinceEng": "Sakon Nakhon",
+        "latitude": 17.1545995,
+        "longitude": 104.1348365
+    },
+    {
+        "provinceID": 60,
+        "provinceThai": "จังหวัดนครสวรรค์",
+        "provinceEng": "Nakhon Sawan",
+        "latitude": 15.6930072,
+        "longitude": 100.12255949999997
+    },
+    {
+        "provinceID": 64,
+        "provinceThai": "จังหวัดสุโขทัย",
+        "provinceEng": "Sukhothai",
+        "latitude": 17.0055573,
+        "longitude": 99.82637120000004
+    },
+    {
+        "provinceID": 95,
+        "provinceThai": "จังหวัดยะลา",
+        "provinceEng": "Yala",
+        "latitude": 6.541147,
+        "longitude": 101.28039469999999
+    },
+    {
+        "provinceID": 50,
+        "provinceThai": "จังหวัดเชียงใหม่",
+        "provinceEng": "Chiang Mai",
+        "latitude": 18.7877477,
+        "longitude": 98.99313110000003
+    },
+    {
+        "provinceID": 70,
+        "provinceThai": "จังหวัดราชบุรี",
+        "provinceEng": "Ratchaburi",
+        "latitude": 13.5282893,
+        "longitude": 99.81342110000003
+    },
+    {
+        "provinceID": 42,
+        "provinceThai": "จังหวัดเลย",
+        "provinceEng": "Loei",
+        "latitude": 17.4860232,
+        "longitude": 101.72230020000006
+    },
+    {
+        "provinceID": 20,
+        "provinceThai": "จังหวัดชลบุรี",
+        "provinceEng": "Chon Buri",
+        "latitude": 13.3611431,
+        "longitude": 100.98467170000004
+    },
+    {
+        "provinceID": 53,
+        "provinceThai": "จังหวัดอุตรดิตถ์",
+        "provinceEng": "Uttaradit",
+        "latitude": 17.6200886,
+        "longitude": 100.09929420000003
+    },
+    {
+        "provinceID": 83,
+        "provinceThai": "จังหวัดภูเก็ต",
+        "provinceEng": "Phuket",
+        "latitude": 7.9810496,
+        "longitude": 98.36388239999997
+    },
+    {
+        "provinceID": 31,
+        "provinceThai": "จังหวัดบุรีรัมย์",
+        "provinceEng": "Buri Ram",
+        "latitude": 14.9930017,
+        "longitude": 103.10291910000001
+    },
+    {
+        "provinceID": 94,
+        "provinceThai": "จังหวัดปัตตานี",
+        "provinceEng": "Pattani",
+        "latitude": 6.869484399999999,
+        "longitude": 101.25048259999994
+    },
+    {
+        "provinceID": 19,
+        "provinceThai": "จังหวัดสระบุรี",
+        "provinceEng": "Saraburi",
+        "latitude": 14.5289154,
+        "longitude": 100.91014210000003
+    },
+    {
+        "provinceID": 77,
+        "provinceThai": "จังหวัดประจวบคีรีขันธ์",
+        "provinceEng": "Prachuap Khiri Khan",
+        "latitude": 11.812367,
+        "longitude": 99.79732709999996
+    },
+    {
+        "provinceID": 80,
+        "provinceThai": "จังหวัดนครศรีธรรมราช",
+        "provinceEng": "Nakhon Si Thammarat",
+        "latitude": 8.4303975,
+        "longitude": 99.96312190000003
+    },
+    {
+        "provinceID": 58,
+        "provinceThai": "จังหวัดแม่ฮ่องสอน",
+        "provinceEng": "Mae Hong Son",
+        "latitude": 19.2990643,
+        "longitude": 97.96562259999996
+    },
+    {
+        "provinceID": 86,
+        "provinceThai": "จังหวัดชุมพร",
+        "provinceEng": "Chumphon",
+        "latitude": 10.4930496,
+        "longitude": 99.18001989999993
+    },
+    {
+        "provinceID": 26,
+        "provinceThai": "จังหวัดนครนายก",
+        "provinceEng": "Nakhon Nayok",
+        "latitude": 14.2069466,
+        "longitude": 101.21305110000003
+    },
+    {
+        "provinceID": 10,
+        "provinceThai": "กรุงเทพมหานคร",
+        "provinceEng": "Bangkok",
+        "latitude": 13.7278956,
+        "longitude": 100.52412349999997
+    },
+    {
+        "provinceID": 71,
+        "provinceThai": "จังหวัดกาญจนบุรี",
+        "provinceEng": "Kanchanaburi",
+        "latitude": 14.0227797,
+        "longitude": 99.53281149999998
+    },
+    {
+        "provinceID": 90,
+        "provinceThai": "จังหวัดสงขลา",
+        "provinceEng": "Songkhla",
+        "latitude": 7.1756004,
+        "longitude": 100.61434699999995
+    },
+    {
+        "provinceID": 37,
+        "provinceThai": "จังหวัดอำนาจเจริญ",
+        "provinceEng": "Amnat Charoen",
+        "latitude": 15.8656783,
+        "longitude": 104.62577740000006
+    },
+    {
+        "provinceID": 22,
+        "provinceThai": "จังหวัดจันทบุรี",
+        "provinceEng": "Chanthaburi",
+        "latitude": 12.61134,
+        "longitude": 102.10385459999998
+    },
+    {
+        "provinceID": 63,
+        "provinceThai": "จังหวัดตาก",
+        "provinceEng": "Tak",
+        "latitude": 16.8839901,
+        "longitude": 99.12584979999997
+    },
+    {
+        "provinceID": 38,
+        "provinceThai": "จังหวัดบึงกาฬ",
+        "provinceEng": "Bueng Kan",
+        "latitude": 18.3609104,
+        "longitude": 103.64644629999998
+    },
+    {
+        "provinceID": 54,
+        "provinceThai": "จังหวัดแพร่",
+        "provinceEng": "Phrae",
+        "latitude": 18.1445774,
+        "longitude": 100.14028310000003
+    },
+    {
+        "provinceID": 45,
+        "provinceThai": "จังหวัดร้อยเอ็ด",
+        "provinceEng": "Roi Et",
+        "latitude": 16.0538196,
+        "longitude": 103.65200359999994
+    },
+    {
+        "provinceID": 74,
+        "provinceThai": "จังหวัดสมุทรสาคร",
+        "provinceEng": "Samut Sakhon",
+        "latitude": 13.5475216,
+        "longitude": 100.27439559999993
+    },
+    {
+        "provinceID": 33,
+        "provinceThai": "จังหวัดศรีสะเกษ",
+        "provinceEng": "Si Sa Ket",
+        "latitude": 15.1186009,
+        "longitude": 104.32200949999992
+    },
+    {
+        "provinceID": 17,
+        "provinceThai": "จังหวัดสิงห์บุรี",
+        "provinceEng": "Sing Buri",
+        "latitude": 14.8936253,
+        "longitude": 100.39673140000002
+    },
+    {
+        "provinceID": 65,
+        "provinceThai": "จังหวัดพิษณุโลก",
+        "provinceEng": "Phitsanulok",
+        "latitude": 16.8298048,
+        "longitude": 100.26149150000003
+    },
+    {
+        "provinceID": 13,
+        "provinceThai": "จังหวัดปทุมธานี",
+        "provinceEng": "Pathum Thani",
+        "latitude": 14.0208391,
+        "longitude": 100.52502759999993
+    },
+    {
+        "provinceID": 27,
+        "provinceThai": "จังหวัดสระแก้ว",
+        "provinceEng": "Sa kaeo",
+        "latitude": 13.824038,
+        "longitude": 102.0645839
+    },
+    {
+        "provinceID": 85,
+        "provinceThai": "จังหวัดระนอง",
+        "provinceEng": "Ranong",
+        "latitude": 9.9528702,
+        "longitude": 98.60846409999999
+    },
+    {
+        "provinceID": 49,
+        "provinceThai": "จังหวัดมุกดาหาร",
+        "provinceEng": "Mukdahan",
+        "latitude": 16.542443,
+        "longitude": 104.72091509999996
+    },
+    {
+        "provinceID": 72,
+        "provinceThai": "จังหวัดสุพรรณบุรี",
+        "provinceEng": "Suphan Buri",
+        "latitude": 14.4744892,
+        "longitude": 100.11771279999994
+    },
+    {
+        "provinceID": 82,
+        "provinceThai": "จังหวัดพังงา",
+        "provinceEng": "Phang-nga",
+        "latitude": 8.4407456,
+        "longitude": 98.51930319999997
+    },
+    {
+        "provinceID": 11,
+        "provinceThai": "จังหวัดสมุทรปราการ",
+        "provinceEng": "Samut Prakarn",
+        "latitude": 13.5990961,
+        "longitude": 100.59983190000003
+    },
+    {
+        "provinceID": 18,
+        "provinceThai": "จังหวัดชัยนาท",
+        "provinceEng": "Chai Nat",
+        "latitude": 15.1851971,
+        "longitude": 100.12512500000003
+    },
+    {
+        "provinceID": 57,
+        "provinceThai": "จังหวัดเชียงราย",
+        "provinceEng": "Chiang Rai",
+        "latitude": 19.9071656,
+        "longitude": 99.83095500000002
+    },
+    {
+        "provinceID": 41,
+        "provinceThai": "จังหวัดอุดรธานี",
+        "provinceEng": "Udon Thani",
+        "latitude": 17.4138413,
+        "longitude": 102.78723250000007
+    },
+    {
+        "provinceID": 21,
+        "provinceThai": "จังหวัดระยอง",
+        "provinceEng": "Rayong",
+        "latitude": 12.6833115,
+        "longitude": 101.23742949999996
+    },
+    {
+        "provinceID": 67,
+        "provinceThai": "จังหวัดเพชรบูรณ์",
+        "provinceEng": "Phetchabun",
+        "latitude": 16.4189807,
+        "longitude": 101.15509259999999
+    },
+    {
+        "provinceID": 93,
+        "provinceThai": "จังหวัดพัทลุง",
+        "provinceEng": "Phatthalung",
+        "latitude": 7.6166823,
+        "longitude": 100.07402309999998
+    }
+  ]
